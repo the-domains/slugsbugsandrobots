@@ -4,8 +4,15 @@
         <description><![CDATA[fun finds for little ones]]></description>
         <link>https://thegrid.ai/slugsbugsandrobots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 17:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 17:23:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/slugsbugsandrobots/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Machinarium ]]></title>
+            <description><![CDATA[<article><h1>Machinarium </h1><p>Please don't steal this game! Buy it online at http://machinarium.net/, all the money goes directly to the developers. Machinarium is point-and-click adventure game developed by Amanita Design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a285900959d723a639975c15941d4801d4a14bb8.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=uwZBdWRSBRs</link>
+            <guid isPermaLink="false">b2bd7690-901e-4af7-89c2-6133da71fda8</guid>
+            <pubDate>Wed, 13 Apr 2016 17:22:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Pocket Scavenger ]]></title>
             <description><![CDATA[<article><h1>The Pocket Scavenger </h1><p>Activity book</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddb7dd15eb66befca9b64b15293e405279219f12.jpg"></article>]]></description>
@@ -47,13 +54,6 @@
             <link>http://www.amazon.com/Thank-You-Bear-Board-Book/dp/0670785075</link>
             <guid isPermaLink="false">70809129-ad4d-49fd-a91d-76f628fe027a</guid>
             <pubDate>Wed, 13 Apr 2016 16:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machinarium ]]></title>
-            <description><![CDATA[<article><h1>Machinarium </h1><p>Please don't steal this game! Buy it online at http://machinarium.net/, all the money goes directly to the developers. Machinarium is point-and-click adventure game developed by Amanita Design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a285900959d723a639975c15941d4801d4a14bb8.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=uwZBdWRSBRs</link>
-            <guid isPermaLink="false">b2bd7690-901e-4af7-89c2-6133da71fda8</guid>
-            <pubDate>Wed, 13 Apr 2016 16:20:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
