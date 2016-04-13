@@ -4,7 +4,7 @@
         <description><![CDATA[fun finds for little ones]]></description>
         <link>https://thegrid.ai/slugsbugsandrobots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 20:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 22:23:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/slugsbugsandrobots/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Monument Valley]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.monumentvalleygame.com/</link>
             <guid isPermaLink="false">53dd8536-a821-46b6-8b24-b80cfc782509</guid>
             <pubDate>Wed, 13 Apr 2016 18:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is not my Hat.]]></title>
+            <description><![CDATA[<article><h1>This is not my Hat.</h1><p>Good Read</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcccbb29f66d5b74a97b3b091d4f60211f54ca63.jpg"></article>]]></description>
+            <link>http://t1.gstatic.com/images?q=tbn:ANd9GcSdKuAqS44LVfLBT1kTovEI5T5RovwZDuI--ToKjpMBmyBnS5V7</link>
+            <guid isPermaLink="false">a132ea3e-834b-4738-91b8-c0e0d444d242</guid>
+            <pubDate>Wed, 13 Apr 2016 22:23:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Song of the Solar System]]></title>
@@ -39,13 +46,6 @@
             <description><![CDATA[<article><h1>Definitely Not for Sloths (Totally Twisted Puzzles)</h1><p>Activity Book</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58ce184c49e5220643559f7258825e47988c1ba9.jpg"></article>]]></description>
             <link>http://www.amazon.com/Definitely-Sloths-Totally-Twisted-Puzzles/dp/1435153561</link>
             <guid isPermaLink="false">ca535c72-fb20-4425-aef8-374e4af00833</guid>
-            <pubDate>Wed, 13 Apr 2016 20:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is not my Hat.]]></title>
-            <description><![CDATA[<article><h1>This is not my Hat.</h1><p>Good Read</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcccbb29f66d5b74a97b3b091d4f60211f54ca63.jpg"></article>]]></description>
-            <link>http://t1.gstatic.com/images?q=tbn:ANd9GcSdKuAqS44LVfLBT1kTovEI5T5RovwZDuI--ToKjpMBmyBnS5V7</link>
-            <guid isPermaLink="false">a132ea3e-834b-4738-91b8-c0e0d444d242</guid>
             <pubDate>Wed, 13 Apr 2016 20:20:10 GMT</pubDate>
         </item>
         <item>
