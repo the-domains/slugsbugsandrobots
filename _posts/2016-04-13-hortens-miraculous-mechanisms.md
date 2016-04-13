@@ -1,0 +1,26 @@
+---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.amazon.com/Hortens-Miraculous-Mechanisms-Mystery-Adventure/dp/1402798067'
+inLanguage: null
+starred: false
+keywords: []
+description: Good Read
+datePublished: '2016-04-13T17:36:33.891Z'
+dateModified: '2016-04-01T14:38:31.387Z'
+author: []
+title: "Horten's Miraculous Mechanisms"
+authors: []
+publisher:
+  name: amazon.com
+  domain: www.amazon.com
+  url: null
+  favicon: null
+sourcePath: _posts/2016-04-13-hortens-miraculous-mechanisms.md
+published: true
+_context: 'http://schema.org'
+_type: Article
+
+---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/99a44df5cd3601c0a9b7013702258511cf6dbfb0.jpg)
