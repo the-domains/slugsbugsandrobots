@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Neat Things
-datePublished: '2016-04-13T17:08:00.723Z'
-dateModified: '2016-04-13T17:07:52.285Z'
+datePublished: '2016-04-13T17:08:12.968Z'
+dateModified: '2016-04-13T17:08:03.259Z'
 title: Song of the Solar System
 author: []
 sourcePath: _posts/2016-04-13-song-of-the-solar-system.md
@@ -22,4 +22,4 @@ publisher:
 _type: MediaObject
 
 ---
-![Fun Find](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e9bd972b8b12dd64a9bd1f07cc34ee04f10be38.png)
+![Neat Things](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e9bd972b8b12dd64a9bd1f07cc34ee04f10be38.png)
