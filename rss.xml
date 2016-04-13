@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[slugsbugsandrobots]]></title>
-        <description><![CDATA[slugsbugsandrobots]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[fun finds for little ones]]></title>
+        <description><![CDATA[fun finds for little ones]]></description>
+        <link>https://thegrid.ai/slugsbugsandrobots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 16:20:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 16:41:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/slugsbugsandrobots/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://prodimage.images-bn.com/pimages/9780399160233_p0_v1_s192x300.jpg">]]></description>
+            <link>https://thegrid.ai/slugsbugsandrobots/6140afa9-6b74-49d8-80f4-2edc670cb678/index.html</link>
+            <guid isPermaLink="false">6140afa9-6b74-49d8-80f4-2edc670cb678</guid>
+            <pubDate>Wed, 13 Apr 2016 16:41:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Machinarium ]]></title>
             <description><![CDATA[<article><h1>Machinarium </h1><p>Please don't steal this game! Buy it online at http://machinarium.net/, all the money goes directly to the developers. Machinarium is point-and-click adventure game developed by Amanita Design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a285900959d723a639975c15941d4801d4a14bb8.jpg"></article>]]></description>
