@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Good Read
-datePublished: '2016-04-13T17:36:33.891Z'
-dateModified: '2016-04-01T14:38:31.387Z'
+datePublished: '2016-04-13T20:28:52.384Z'
+dateModified: '2016-04-13T17:36:38.573Z'
 author: []
 title: "Horten's Miraculous Mechanisms"
+sourcePath: _posts/2016-04-13-hortens-miraculous-mechanisms.md
+published: true
 authors: []
 publisher:
   name: amazon.com
   domain: www.amazon.com
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-hortens-miraculous-mechanisms.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
