@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Activity Books
-datePublished: '2016-04-13T16:54:45.110Z'
-dateModified: '2016-03-31T15:05:54.912Z'
+datePublished: '2016-04-13T19:48:56.723Z'
+dateModified: '2016-04-13T18:02:18.179Z'
 author: []
 title: 'Challenging Mazes: 80 Timed Mazes to Test Your Skill! '
+sourcePath: _posts/2016-04-13-challenging-mazes-80-timed-mazes-to-test-your-skill.md
+published: true
 authors: []
 publisher:
   name: barronseduc.com
   domain: barronseduc.com
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-challenging-mazes-80-timed-mazes-to-test-your-skill.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
