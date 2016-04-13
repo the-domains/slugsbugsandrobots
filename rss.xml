@@ -4,8 +4,15 @@
         <description><![CDATA[fun finds for bright little minds]]></description>
         <link>https://thegrid.ai/slugsbugsandrobots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 17:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 18:11:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/slugsbugsandrobots/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ultimate SciFi Spaceship Soundscape | Interactive & Free]]></title>
+            <description><![CDATA[<article><h1>Ultimate SciFi Spaceship Soundscape | Interactive & Free</h1><p>Star Trek's Enterprise engine noise has been a recurring request. A slight problem delayed its release: our user interface had more sliders than it needed to recreate the sound! ;) So, instead of designing just an engine noise, we decided to throw some extra sounds and turn the engine noise into a fully featured intergalactic experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57ec5c10f1528242b8ebef41aadb90658e6cb044.jpg"></article>]]></description>
+            <link>http://mynoise.net/NoiseMachines/spaceshipNoiseGenerator.php</link>
+            <guid isPermaLink="false">adaaabc3-1f4d-45d9-9cb2-d037b74d3797</guid>
+            <pubDate>Wed, 13 Apr 2016 18:10:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monument Valley]]></title>
             <description><![CDATA[<article><h1>Monument Valley</h1><p>Puzzle Game</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41d4dd4cfe7ad31dafed21ff96d9032508970655.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Challenging Mazes: 80 Timed Mazes to Test Your Skill! </h1><p>Illustrated by Lisa Mallet & Marc Parchow, Text by Elizabeth Golding. Designed by Anton Poitier and Ben Potter</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/476f7b1fd1dcc42ad4a2f52423a8f13962a9ed27.gif"></article>]]></description>
             <link>http://barronseduc.com/1438007884.html</link>
             <guid isPermaLink="false">7205a2f1-5ecf-4a54-84a7-93e11dff5384</guid>
-            <pubDate>Wed, 13 Apr 2016 16:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Definitely Not for Sloths (Totally Twisted Puzzles)]]></title>
-            <description><![CDATA[<article><h1>Definitely Not for Sloths (Totally Twisted Puzzles)</h1><p>Activity Book</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58ce184c49e5220643559f7258825e47988c1ba9.jpg"></article>]]></description>
-            <link>http://www.amazon.com/Definitely-Sloths-Totally-Twisted-Puzzles/dp/1435153561</link>
-            <guid isPermaLink="false">ca535c72-fb20-4425-aef8-374e4af00833</guid>
             <pubDate>Wed, 13 Apr 2016 16:54:45 GMT</pubDate>
         </item>
     </channel>
