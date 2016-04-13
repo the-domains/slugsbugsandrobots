@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Orisinal games collection by Ferry Halim
-datePublished: '2016-04-13T17:11:29.534Z'
-dateModified: '2016-04-13T17:10:01.988Z'
+datePublished: '2016-04-13T17:14:08.532Z'
+dateModified: '2016-04-13T17:14:04.469Z'
 author: []
 related: []
 app_links: []
@@ -26,5 +26,3 @@ _type: MediaObject
 
 ---
 ![Online Games](https://s3-us-west-2.amazonaws.com/the-grid-img/p/771bd25acb5def8f48079cd3a464f9573be4f2ef.png)
-
-<article style=""><h1>Orisinal : Morning Sunshine</h1><p>Orisinal games collection by Ferry Halim with Winterbells, Sunny Day Sky, These Little Pigs, Bubble Bees, Chicken Wings, Bum Bum Koala, Snowbowling, Dare Dozen, Cranky Crabs, and more!</p></article>
