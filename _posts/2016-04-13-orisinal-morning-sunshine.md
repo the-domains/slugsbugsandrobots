@@ -6,13 +6,13 @@ isBasedOnUrl: 'http://www.ferryhalim.com/orisinal/'
 inLanguage: null
 starred: false
 keywords: []
-description: 'Orisinal games collection by Ferry Halim with Winterbells, Sunny Day Sky, These Little Pigs, Bubble Bees, Chicken Wings, Bum Bum Koala, Snowbowling, Dare Dozen, Cranky Crabs, and more!'
-datePublished: '2016-04-13T17:05:36.974Z'
-dateModified: '2016-04-13T17:05:01.040Z'
+description: Orisinal games collection by Ferry Halim
+datePublished: '2016-04-13T17:09:51.887Z'
+dateModified: '2016-04-13T17:05:45.438Z'
 author: []
 related: []
 app_links: []
-title: 'Orisinal : Morning Sunshine'
+title: 'Orisinal : '
 sourcePath: _posts/2016-04-13-orisinal-morning-sunshine.md
 published: true
 authors: []
