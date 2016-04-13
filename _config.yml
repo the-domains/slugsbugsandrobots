@@ -1,5 +1,8 @@
+name: slugsbugsandrobots
+favicon: null
+layout_spectrum: 0.62174
+typography_spectrum: 0.08457
 title: fun finds for little ones
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#020101'
     - '#413A1F'
     - '#91895C'
     - '#6E7717'
     - '#A5AC0F'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: slugsbugsandrobots
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.08457
-layout_spectrum: 0.62918
+purpose: []
