@@ -1,4 +1,4 @@
-name: slugsbugsandrobots
+name: bitsforlittle
 favicon: null
 layout_spectrum: 0.63321
 typography_spectrum: 0.08457
@@ -35,7 +35,7 @@ color:
     - '#bbff9a'
     - '#ff00e9'
   brandStrength: 0.5
-  lightness: 0.625
+  lightness: 0.4375
   saturation: 1
   rhythmicContrast: 0.5
 purpose: []
