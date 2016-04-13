@@ -1,0 +1,28 @@
+name: slugsbugsandrobots
+favicon: null
+layout_spectrum: 0.38060258491896093
+typography_spectrum: 0.3006902583874762
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5399564011022449
+  lightness: 0.33633353444747627
+  saturation: 0.9795797746628523
+  rhythmicContrast: 0.712245944654569
+purpose: []
