@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Good Read
-datePublished: '2016-04-13T22:23:58.748Z'
-dateModified: '2016-04-13T22:23:32.033Z'
+datePublished: '2016-04-13T22:24:16.540Z'
+dateModified: '2016-04-13T22:24:08.438Z'
 author: []
 title: This is not my Hat.
 sourcePath: _posts/2016-04-13-this-is-not-my-hat.md
@@ -23,4 +23,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcccbb29f66d5b74a97b3b091d4f60211f54ca63.jpg)
+![Good Read](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcccbb29f66d5b74a97b3b091d4f60211f54ca63.jpg)
