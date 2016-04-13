@@ -4,7 +4,7 @@
         <description><![CDATA[fun finds for little ones]]></description>
         <link>https://thegrid.ai/slugsbugsandrobots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 22:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 22:51:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/slugsbugsandrobots/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Monument Valley]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.monumentvalleygame.com/</link>
             <guid isPermaLink="false">53dd8536-a821-46b6-8b24-b80cfc782509</guid>
             <pubDate>Wed, 13 Apr 2016 18:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Gruffalo]]></title>
+            <description><![CDATA[<article><h1>The Gruffalo</h1><p>Fun Film</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ca8816aefb72a537b4ef7de1a025138a3ef7575.jpg"></article>]]></description>
+            <link>http://www.amazon.com/Gruffalo-Helena-Bonham-Carter/dp/B00IRKXV3S/ref=sr_1_1/ref=sr_1_1?_encoding=UTF8&amp;keywords=gruffalo&amp;qid=1460587462&amp;s=movies-tv&amp;sr=1-1</link>
+            <guid isPermaLink="false">219ad331-a948-4bca-9ab8-cb8fa8cddc60</guid>
+            <pubDate>Wed, 13 Apr 2016 22:51:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Pocket Scavenger ]]></title>
