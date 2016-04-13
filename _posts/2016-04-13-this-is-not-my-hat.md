@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Good Read
-datePublished: '2016-04-13T17:48:52.854Z'
-dateModified: '2016-03-31T14:43:42.744Z'
+datePublished: '2016-04-13T20:10:38.610Z'
+dateModified: '2016-04-13T17:48:55.396Z'
 author: []
 title: This is not my Hat.
 authors: []
