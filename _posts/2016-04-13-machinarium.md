@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Puzzle Game
-datePublished: '2016-04-13T17:22:41.039Z'
-dateModified: '2016-04-13T16:20:23.790Z'
+datePublished: '2016-04-13T19:27:20.872Z'
+dateModified: '2016-04-13T17:22:49.896Z'
 author:
   - name: Amanita Design
     url: 'https://www.youtube.com/user/jdamanita'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: 'Machinarium '
+sourcePath: _posts/2016-04-13-machinarium.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-04-13-machinarium.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
