@@ -6,15 +6,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 0.509667
+  brandStrength: 0.6772288
   lightness: 1
   brandColors:
     - '#2c2d2f'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: slugsbugsandrobots
 favicon: null
+name: slugsbugsandrobots
 opengraph:
   image: null
   type: null
