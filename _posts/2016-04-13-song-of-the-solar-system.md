@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Neat Things
-datePublished: '2016-04-13T17:08:12.968Z'
-dateModified: '2016-04-13T17:08:03.259Z'
+datePublished: '2016-04-13T20:52:57.122Z'
+dateModified: '2016-04-13T20:52:56.917Z'
 title: Song of the Solar System
 author: []
 sourcePath: _posts/2016-04-13-song-of-the-solar-system.md
