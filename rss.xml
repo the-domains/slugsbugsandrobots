@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[slugsbugsandrobots]]></title>
+        <description><![CDATA[slugsbugsandrobots]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 16:20:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Machinarium ]]></title>
+            <description><![CDATA[<article><h1>Machinarium </h1><p>Please don't steal this game! Buy it online at http://machinarium.net/, all the money goes directly to the developers. Machinarium is point-and-click adventure game developed by Amanita Design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a285900959d723a639975c15941d4801d4a14bb8.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=uwZBdWRSBRs</link>
+            <guid isPermaLink="false">b2bd7690-901e-4af7-89c2-6133da71fda8</guid>
+            <pubDate>Wed, 13 Apr 2016 16:20:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
