@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Good Read
-datePublished: '2016-04-13T20:32:25.370Z'
-dateModified: '2016-04-13T20:32:19.018Z'
+datePublished: '2016-04-14T00:49:48.624Z'
+dateModified: '2016-04-14T00:49:34.948Z'
 author: []
 title: "Horten's Miraculous Mechanisms"
 sourcePath: _posts/2016-04-13-hortens-miraculous-mechanisms.md
