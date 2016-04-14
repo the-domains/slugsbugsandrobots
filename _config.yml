@@ -1,41 +1,41 @@
-name: bitsforlittle
-favicon: null
-layout_spectrum: 0.63321
-typography_spectrum: 0.08457
-title: fun finds for little ones
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.63321
+title: fun finds for little ones
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 1
+  brandStrength: 0.5
+  rhythmicContrast: 0.25
   brandColors:
     - '#2c2d2f'
     - '#808183'
     - '#0bf3da'
     - '#bbff9a'
     - '#ff00e9'
-  brandStrength: 0.5
   lightness: 0.5625
-  saturation: 1
-  rhythmicContrast: 0.25
 purpose: []
+favicon: null
+name: bitsforlittle
+typography_spectrum: 0.08457
