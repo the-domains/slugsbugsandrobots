@@ -7,22 +7,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: Fun Film
-datePublished: '2016-04-13T22:51:33.045Z'
-dateModified: '2016-04-13T22:51:24.761Z'
+datePublished: '2016-04-14T00:34:05.103Z'
+dateModified: '2016-04-14T00:28:41.467Z'
 author: []
 related: []
 app_links: []
 title: The Gruffalo
+sourcePath: _posts/2016-04-13-the-gruffalo.md
+published: true
 authors: []
 publisher:
   name: Amazon
   domain: www.amazon.com
   url: 'http://www.amazon.com'
   favicon: 'http://www.amazon.com/favicon.ico'
-sourcePath: _posts/2016-04-13-the-gruffalo.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Gruffalo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ca8816aefb72a537b4ef7de1a025138a3ef7575.jpg" /></article>
+<article style=""><h1>The Gruffalo</h1><p>Fun Film</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ca8816aefb72a537b4ef7de1a025138a3ef7575.jpg" /></article>
