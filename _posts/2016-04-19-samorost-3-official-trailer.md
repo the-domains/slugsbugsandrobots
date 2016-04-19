@@ -1,6 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=d-b-wpPM7yA&feature=youtu.be'
+inLanguage: en
+starred: false
+keywords:
+  - duration
+  - samorost
+  - amanita
+  - trailer
+  - views
+  - samorost3
+  - design
+  - machinarium
+  - longplays
+  - http
 description: "Samorost 3 is an exploration adventure and puzzle game from the award-winning creators of Machinarium and Botanicula. It is Amanita Design's most ambitious experience to date and a loose continuation of the hit indie games Samorost and Samorost 2. Samorost 3 is available for purchase on Steam, GOG, Humble Store, Mac App Store (Mac version) and our own website samorost3.net."
-datePublished: '2016-04-19T15:39:25.645Z'
+datePublished: '2016-04-19T17:52:49.390Z'
+dateModified: '2016-04-19T17:52:44.555Z'
+author:
+  - name: Amanita Design
+    url: 'https://www.youtube.com/user/jdamanita'
+    avatar: {}
+related: []
 app_links:
   - app_store_id: '544007664'
     namespace: ai
@@ -38,38 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-inNav: false
-inLanguage: en
-starred: false
-author:
-  - name: Amanita Design
-    url: 'https://www.youtube.com/user/jdamanita'
-    avatar: {}
-hasPage: false
-authors: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=d-b-wpPM7yA&feature=youtu.be'
 title: Samorost 3 Official Trailer
-keywords:
-  - duration
-  - samorost
-  - amanita
-  - trailer
-  - views
-  - samorost3
-  - design
-  - machinarium
-  - longplays
-  - http
+sourcePath: _posts/2016-04-19-samorost-3-official-trailer.md
+published: true
+authors: []
 publisher:
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
-dateModified: '2016-04-19T15:39:12.326Z'
-related: []
-inFeed: true
-sourcePath: _posts/2016-04-19-samorost-3-official-trailer.md
-published: true
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
